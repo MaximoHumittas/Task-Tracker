@@ -2,9 +2,7 @@
 
 Hi, this is my first project for the roadmap. (Will be improved in the future)
 
-[https://github.com/MaximoHumittas/Task-Tracker](Project URL)
-
-    [https://github.com/MaximoHumittas/Task-Tracker](Project URL)
+[https://roadmap.sh/projects/task-tracker](url)
 
 
 They requested a guide for this app. Here are the available commands:
