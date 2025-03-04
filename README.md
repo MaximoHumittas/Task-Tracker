@@ -2,11 +2,12 @@
 
 Hi, this is my first project for the roadmap. (Will be improved in the future)
 
-Ulr = https://github.com/MaximoHumittas/Task-Tracker
+[https://github.com/MaximoHumittas/Task-Tracker](url)
+
+
 
 They requested a guide for this app. Here are the available commands:
 
-    https://github.com/MaximoHumittas/Task-Tracker
 
     add "task": Add a new task.
 
