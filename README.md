@@ -1,6 +1,6 @@
 # Task-Tracker
 
-Hi, this is my first project for the roadmap.
+Hi, this is my first project for the roadmap. (Will be improved in the future)
 
 They requested a guide for this app. Here are the available commands:
 
